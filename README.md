@@ -1,6 +1,6 @@
 # PyTorch Exercises
 
-Small, self-contained Jupyter notebook covering manual optimization, time-series regression, and vectorized geometry with PyTorch.
+Small, self-contained Jupyter notebook covering manual optimization, time-series regression, and tensor operations with PyTorch.
 
 ## Exercises
 - **Part 1 – Stochastic Gradient Descent:** Build logistic regression from scratch on synthetic data, hand-code SGD updates (no optimizer), and visualize the learned decision curve plus loss curve.
